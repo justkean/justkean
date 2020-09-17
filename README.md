@@ -8,3 +8,5 @@
 - 📫 How to reach me: Twitter: @FCFSRestock - Discord: Kean#9123
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bananas are curved because they grow towards the sun. 🍌
+
+FYI: MOST OF MY REPOSITORIES ARE PRIVATE.
