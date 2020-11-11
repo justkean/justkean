@@ -2,9 +2,9 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on Pulsar AIO. You can find it here: https://twitter.com/PulsarAIO
+- 🔭 I’m currently working on projects for Fuse Robotics. You can find it here: https://twitter.com/FuseRobotics
 - 🌱 I’m currently learning Go
-- 💬 Ask me about C# or anything else you'd like
+- 💬 Ask me about C#, Star Wars, or anything else you'd like to
 - 📫 How to reach me: Twitter: @FCFSRestock - Discord: Kean#9123
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Bananas are curved because they grow towards the sun. 🍌
